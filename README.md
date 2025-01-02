@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Enrico Favale</h1>
 <h3 align="center">A graduate student with a strong passion for web development and a nerdy heart. Currently expanding my knowledge by diving into the rabbit hole of Artificial Intelligence. How will I use this knowledge to make a difference in the world?</h3>
-<h3 align="center">Currently I'm working at "ISIT Bassi Burgatti" - High School as Computer Science professor while also pursuing a Master’s in Artificial Intelligence at UniFE.</h3>
+<h3 align="center">Currently pursuing a Master’s in Artificial Intelligence at UniFE.</h3>
 
 - 📄 Take a look at my backstory and projects: [https://enrico-favale.github.io/](https://enrico-favale.github.io/)
 
