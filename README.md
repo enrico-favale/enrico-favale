@@ -20,6 +20,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=enrico-favale&show_icons=true&theme=dracula&locale=en&layout=compact" alt="enrico-favale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=enrico-favale&show_icons=true&theme=dracula&locale=en" alt="enrico-favale" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=enrico-favale&theme=dark" alt="enrico-favale" /></p>
